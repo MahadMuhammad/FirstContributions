@@ -158,3 +158,16 @@ Now, you have the right skills and you have identified the project that you want
 - In this process if find any issue then try to fix it, introduce yourself to the community, raise a PR or an issue. 
     - This is the best way to make your first contact with the community.
 - If you don't find any good-first-issue then you can also introduce yourself to the community, ask for help, or ask for a good first issue.
+
+## Communicate Effectively and ask smart questions
+- Try to find answer yourself.
+- Searching the archives of the forum or mailing list.
+- Searching web.
+- Reading documentation.
+- Ask a skilled friend.
+- Make it easy to reply.
+- Don’t spam.
+- Don’t dm mentors or org admins.
+- Be Precise & Informative about your Problems
+
+> Read this interesting guide http://www.catb.org/~esr/faqs/smart-questions.html for more information.
