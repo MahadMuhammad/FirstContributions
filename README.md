@@ -171,3 +171,15 @@ Now, you have the right skills and you have identified the project that you want
 - Be Precise & Informative about your Problems
 
 > Read this interesting guide http://www.catb.org/~esr/faqs/smart-questions.html for more information.
+
+## How to understand Large and Complex Codebases
+Understanding the code which was developed by experienced developers over a long period of time is a challenging task. Therefore, don't expect the code by just looking at it. You have to understand the codebase in a systematic way. These are the steps that you can follow to understand the codebase.
+
+- Read the documentation.
+- Don't dive into the codebase without any purpose.
+- Atleast know the basics of the programming language.
+- Read the theoritcal aspect of the project.
+- Find a specfic task that you want to do and then ask or find which part of the codebase is responsible for that task.
+- Use the debugger to understand the codebase.
+- Use the search feature of the codebase to find the specific code.
+- Use `git blame`` to find the author or context of the code.
