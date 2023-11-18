@@ -20,7 +20,6 @@ This repository provides a basic roadmap for anyone who wants to start their ope
 - [Communicate Effectively and ask smart questions](#communicate-effectively-and-ask-smart-questions)
 - [How to understand Large and Complex Codebases](#how-to-understand-large-and-complex-codebases)
 - [Don't hesistate to help others](#dont-hesistate-to-help-others)
-- [Don't be afraid to make mistakes](#dont-be-afraid-to-make-mistakes)
 - [Document your journey](#document-your-journey)
 
 ## What is Open Source?
@@ -183,3 +182,7 @@ Understanding the code which was developed by experienced developers over a long
 - Use the debugger to understand the codebase.
 - Use the search feature of the codebase to find the specific code.
 - Use `git blame`` to find the author or context of the code.
+
+## Don't hesistate to help others
+- Open source is all about learning and helping others. If you find a beginner who is struggling with the same problem that you have faced in the past then don't hesistate to help them. Motivate and refer them to the right resources. This way you can also improve your skills and build a network.
+
