@@ -17,9 +17,7 @@ This repository provides a basic roadmap for anyone who wants to start their ope
 - [Learning the right skills](#learning-the-right-skills)
     - [Learning Git and GitHub](#learning-git-and-github)
 - [Make your first contact](#make-your-first-contact)
-    - [Finding good first issues](#finding-good-first-issues)
 - [Communicate Effectively and ask smart questions](#communicate-effectively-and-ask-smart-questions)
-    - [How to ask for help](#how-to-ask-for-help)
 - [How to understand Large and Complex Codebases](#how-to-understand-large-and-complex-codebases)
 - [Don't hesistate to help others](#dont-hesistate-to-help-others)
 - [Don't be afraid to make mistakes](#dont-be-afraid-to-make-mistakes)
@@ -150,3 +148,13 @@ Learning how to use search engine is also a great skill to have, which you can l
 ### Learning Git and GitHub
 See [GitHub Flow](https://docs.github.com/en/get-started) for learning Git and GitHub.
 A more detailed guide is [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source?tab=readme-ov-file#using-version-control)
+
+## Make your first contact
+Now, you have the right skills and you have identified the project that you want to contribute. The next step is to make your first contact with the community.
+- See the CONTRIBUTING.md or building instructions of that project.
+- Read the documentation of that project.
+- Build the project on your local machine.
+- Run the tests.
+- In this process if find any issue then try to fix it, introduce yourself to the community, raise a PR or an issue. 
+    - This is the best way to make your first contact with the community.
+- If you don't find any good-first-issue then you can also introduce yourself to the community, ask for help, or ask for a good first issue.
