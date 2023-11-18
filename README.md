@@ -186,3 +186,33 @@ Understanding the code which was developed by experienced developers over a long
 ## Don't hesistate to help others
 - Open source is all about learning and helping others. If you find a beginner who is struggling with the same problem that you have faced in the past then don't hesistate to help them. Motivate and refer them to the right resources. This way you can also improve your skills and build a network.
 
+## Document your journey
+Documenting your journey is the best to help others or maybe your future self in understanding the process that you have followed. You can document your journey in the form of a blog, video, or a GitHub repository. Documenting your joureny through blog is the easiest way to get started. You can use 
+
+- [Medium](https://medium.com/)
+- [Hashnode](https://hashnode.com/)
+- [Dev.to](https://dev.to/)
+- [Substack](https://substack.com/)
+- [Ghost](https://ghost.org/)
+- [WordPress](https://wordpress.com/)
+- [Blogger](https://www.blogger.com/)
+- [Tumblr](https://www.tumblr.com/)
+- [GitBook](https://www.gitbook.com/)
+- [Notion](https://www.notion.so/)
+
+For writing blogs, or if you want to host your personal you can use these static site generators:
+- [Jekyll](https://jekyllrb.com/)
+- [Hugo](https://gohugo.io/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Next.js](https://nextjs.org/)
+- [Docusaurus](https://docusaurus.io/)
+- [Docsy](https://www.docsy.dev/)
+- [MdBook](https://rust-lang.github.io/mdBook/)
+- [Doxygen](https://www.doxygen.org/)
+- [Sphinx](https://www.sphinx-doc.org/)
+- [MkDocs](https://www.mkdocs.org/)
+- [BookStack](https://www.bookstackapp.com/)
+- [FoamBubble](https://foambubble.github.io/)
+- [VuePress](https://vuepress.vuejs.org/)
+- [Docz](https://www.docz.site/)
+
