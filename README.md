@@ -83,3 +83,28 @@ You will be much more successful if you work on your passion. Therefore, the fir
 - Find the intersection of your passion and your technology.
 
 For some people it's like gaming or art, or poetry which they love to do in their free. For example, if you like art then you can contribute to the artisitic softwares like blender, inkscape, gimp, openshot, krita. This way you can improve your skills, learn from the best developers and make an impact on the world.
+
+## Find a project to contribute
+Now, you have identified your passion. The next step is to find a project to contribute. Selecting a project is one of the crucial step in your open source journey.
+
+> Identify the project that you uses in your daily life. This is the best way to find a project to contribute. As you have the passion for that project and you know the pain features that you want to add or improve in that project. 
+
+- One of the easiest way to find the project and the welcoming community is using Google Summer Of Code [website](https://summerofcode.withgoogle.com/programs/2023/organizations).
+    - Just go there, and search for the term that you are passionte about you will find organizations the work on that technology.
+- Use GitHub [Explore](https://github.com/explore/)
+- See GitHub [trending repositories](https://github.com/trending)
+- See GitHub [choosing a project](https://github.com/collections/choosing-projects)
+- [Open Source Friday](https://opensourcefriday.com/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [CodeTriage](https://www.codetriage.com/)
+- [24 Pull Requests](https://24pullrequests.com/)
+- [Up For Grabs](https://up-for-grabs.net/)
+- [First Contributions](https://firstcontributions.github.io)
+- [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+- [OpenSauced](https://opensauced.pizza/)
+- [Ovio](https://ovio.org) 
+    - For finding good first issues on this platform use this search [powerful issue search tool](https://ovio.org/issues)
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+- [Open Source Welcome Committee](https://www.oswc.is/)
+
+> See [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source?tab=readme-ov-file#open-source-contribution-initiatives) for more resources.
