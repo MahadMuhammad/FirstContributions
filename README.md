@@ -22,3 +22,34 @@ This repository provides a basic roadmap for anyone who wants to start their ope
 - [Don't hesistate to help others](#dont-hesistate-to-help-others)
 - [Don't be afraid to make mistakes](#dont-be-afraid-to-make-mistakes)
 - [Document your journey](#document-your-journey)
+
+## What is Open Source?
+The term [open source](https://opensource.org/osd/) means that anyone can see, understand, learn, modify or distribute (depending upon the [license](https://opensource.org/licenses/)) the source code of the software. The amazing technology that we using now a days become possible due to the rise of open source movement.
+
+The source code of:
+- [Linux](https://github.com/torvalds/linux)
+- [Blender](https://github.com/blender/blender)
+- [Android](https://cs.android.com/android/platform/superproject/main)
+- [Firefox](https://searchfox.org/mozilla-central/source)
+- [Chromium](https://chromium.googlesource.com/chromium/src.git)
+- [Apache HTTP Server](https://github.com/apache/httpd)
+- [MySQL](https://github.com/mysql/mysql-server)
+- [Git](https://github.com/git/git)
+- [TensorFlow](https://github.com/tensorflow/tensorflow)
+- [PyTorch](https://github.com/pytorch/pytorch)
+- [VsCodium](https://github.com/VSCodium/vscodium)
+- [GIMP](https://www.gimp.org/source/)
+- [VLC](https://github.com/videolan/vlc)
+- [InkScape](https://gitlab.com/inkscape/inkscape)
+- [FFmpeg](https://git.ffmpeg.org/ffmpeg.git)
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+- [Docker](https://github.com/moby/moby)
+- [MongoDB](https://github.com/mongodb/mongo)
+- [Godot](https://github.com/godotengine/godot)
+- Almost all the programming languages
+
+And even many machine learning models like [Meta LLAMA 2](https://ai.meta.com/llama) and OpenAi's general-purpose speech recognition model [Whisper](https://github.com/openai/whisper) are open source. Also, there are some open source [games](https://en.wikipedia.org/wiki/List_of_open-source_video_games) like [Doom](https://github.com/id-Software/DOOM). All of these are open source projects. You can see their source code, learn from them, modify them, and even contribute to them. You can also use them in your own projects. This is the power of open source.
+
+### Main philosophy of Open Source
+The main philosophy of open-source products is the freedom to think, create, learn, and share. It is a collaborative effort of many developers who are working together to create something amazing. In the early phases of technology, open source helps the technology to not become handicapped by some big entities and is developed by people who really have the passion to make that piece of technology better.
+
