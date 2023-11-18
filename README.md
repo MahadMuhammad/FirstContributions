@@ -46,6 +46,7 @@ The source code of:
 - [Docker](https://github.com/moby/moby)
 - [MongoDB](https://github.com/mongodb/mongo)
 - [Godot](https://github.com/godotengine/godot)
+- [Krita](https://github.com/KDE/krita)
 - Almost all the programming languages
 
 And even many machine learning models like [Meta LLAMA 2](https://ai.meta.com/llama) and OpenAi's general-purpose speech recognition model [Whisper](https://github.com/openai/whisper) are open source. Also, there are some open source [games](https://en.wikipedia.org/wiki/List_of_open-source_video_games) like [Doom](https://github.com/id-Software/DOOM). All of these are open source projects. You can see their source code, learn from them, modify them, and even contribute to them. You can also use them in your own projects. This is the power of open source.
@@ -71,3 +72,14 @@ If you want to know that open source is for you or not, then ask these questions
 - Do you want to grow your network?
 - Do you like improving the technology that you uses in your daily life.
 - Building a community?
+
+## Find your Passion
+You will be much more successful if you work on your passion. Therefore, the first is that we have to find our passion.
+
+- The thing which you like to do in your free time.
+- Which thing excites you the most?
+- The thing which you do without any external or monetary motivation. 
+- Where are you seeing yourself in next 2-3 years.
+- Find the intersection of your passion and your technology.
+
+For some people it's like gaming or art, or poetry which they love to do in their free. For example, if you like art then you can contribute to the artisitic softwares like blender, inkscape, gimp, openshot, krita. This way you can improve your skills, learn from the best developers and make an impact on the world.
