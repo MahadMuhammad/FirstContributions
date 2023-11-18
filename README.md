@@ -53,3 +53,21 @@ And even many machine learning models like [Meta LLAMA 2](https://ai.meta.com/ll
 ### Main philosophy of Open Source
 The main philosophy of open-source products is the freedom to think, create, learn, and share. It is a collaborative effort of many developers who are working together to create something amazing. In the early phases of technology, open source helps the technology to not become handicapped by some big entities and is developed by people who really have the passion to make that piece of technology better.
 
+## Benefits of Contributing in Open Source
+As a complete beginner in technology we face a common problem that we are unable to make our hands dirty on the products or softwares that we uses in our daily life and the softwares that powers the whole world. Here, open source solves the problem.
+
+By working in open source project you
+- Understand the magic behind the amazing technology.
+- Improve your skills by working with other developers.
+- Work and learn from the best developers and technology.
+- Making an impact on the world by contributing to the projects that was used by millions.
+- Open your door to the world of opportunities.
+- Learn people skills like communication, teamwork, leadership, etc.
+- Work on the thing that you are passionate about.
+- Getting paid (as a job or through some programs)
+
+If you want to know that open source is for you or not, then ask these questions to yourself:
+- Do you want become a technology maker?
+- Do you want to grow your network?
+- Do you like improving the technology that you uses in your daily life.
+- Building a community?
