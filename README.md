@@ -219,3 +219,4 @@ For writing blogs, or if you want to host your personal you can use these static
 
 ## Slides
 - [Google Summer Of Code Slides](https://docs.google.com/presentation/d/e/2PACX-1vQQ7EpR1HWyay4DSha18QjGJ0pXs3dEib-xKEJw07NYnGAIvbIaAX7rPz8jn822iA/pub?start=false&loop=false&delayms=3000)
+- [GitHub Seekho Slides](https://docs.google.com/presentation/d/e/2PACX-1vTvKx8Xh4k1bmUTot7hwTkvsbC9oyrbhs6W0swhCh4uEp9aSao4ddsyms0gaWkcfQ/pub?start=false&loop=false&delayms=3000)
