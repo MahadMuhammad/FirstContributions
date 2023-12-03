@@ -21,6 +21,7 @@ This repository provides a basic roadmap for anyone who wants to start their ope
 - [How to understand Large and Complex Codebases](#how-to-understand-large-and-complex-codebases)
 - [Don't hesistate to help others](#dont-hesistate-to-help-others)
 - [Document your journey](#document-your-journey)
+- [Slides](#slides)
 
 ## What is Open Source?
 The term [open source](https://opensource.org/osd/) means that anyone can see, understand, learn, modify or distribute (depending upon the [license](https://opensource.org/licenses/)) the source code of the software. The amazing technology that we using now a days become possible due to the rise of open source movement.
@@ -216,3 +217,5 @@ For writing blogs, or if you want to host your personal you can use these static
 - [VuePress](https://vuepress.vuejs.org/)
 - [Docz](https://www.docz.site/)
 
+## Slides
+- [Google Summer Of Code Slides](https://docs.google.com/presentation/d/e/2PACX-1vQQ7EpR1HWyay4DSha18QjGJ0pXs3dEib-xKEJw07NYnGAIvbIaAX7rPz8jn822iA/pub?start=false&loop=false&delayms=3000)
