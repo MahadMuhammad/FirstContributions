@@ -141,6 +141,8 @@ The right skills depend on the project that you want to contribute. For example,
 - Use freeCodeCamp [website](https://www.freecodecamp.org/)
 - Use YouTube [website](https://www.youtube.com/)
 
+- For learning more best universities, use this: https://csdiy.wiki/en/
+
 Learning how to use search engine is also a great skill to have, which you can learn from here:
 - [Google: Power Searching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google)
 - [Google: Advanced Power Searching With Google](https://www.edx.org/learn/google-power-searching/google-advanced-power-searching-with-google)
