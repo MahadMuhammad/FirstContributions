@@ -184,7 +184,7 @@ Understanding the code which was developed by experienced developers over a long
 - Find a specfic task that you want to do and then ask or find which part of the codebase is responsible for that task.
 - Use the debugger to understand the codebase.
 - Use the search feature of the codebase to find the specific code.
-- Use `git blame`` to find the author or context of the code.
+- Use `git blame` to find the author or context of the code.
 
 ## Don't hesistate to help others
 - Open source is all about learning and helping others. If you find a beginner who is struggling with the same problem that you have faced in the past then don't hesistate to help them. Motivate and refer them to the right resources. This way you can also improve your skills and build a network.
