@@ -244,5 +244,5 @@ For writing blogs, or if you want to host your personal site you can use these s
 
 ## Slides
 
-- [Google Summer Of Code Slides](https://docs.google.com/presentation/d/17CAHXKyuzq3CoSGaAFNT4sHpY6hClN1o/edit?usp=sharing&ouid=108490721065767979539&rtpof=true&sd=true)
+- [Google Summer Of Code Slides](https://docs.google.com/presentation/d/e/2PACX-1vTzjZ6Zwj-F51Hdu5cTai-G503oi0NOFVvbSuItI1JMJcyZUGQ2uf7GNiRXgCd_Aw/pub?start=false&loop=false&delayms=3000)
 - [GitHub Seekho Slides](https://docs.google.com/presentation/d/e/2PACX-1vTvKx8Xh4k1bmUTot7hwTkvsbC9oyrbhs6W0swhCh4uEp9aSao4ddsyms0gaWkcfQ/pub?start=false&loop=false&delayms=3000)
