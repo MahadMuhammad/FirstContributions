@@ -1,87 +1,87 @@
 ![gsoc image](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Horizontal.png)
 
-# Google Summer Of Code (GSoC) Mentorship Program
+# Google Summer of Code (GSoC) Mentorship Program
 
-Do you have a passion for workiing open-source projects, that powers the whole world and a desire to learn from the technology makes? Do you want work on these amazing projects, while sitting at home and reciveing a stipend from 1500$ - 3000$? If your answer is a resounding “yes,” then Google Summer of Code (GSoC) might just be the perfect journey for you!
+Do you have a passion for working on open-source projects that power the whole world and a desire to learn from cutting-edge technologies? Do you want to work on these amazing projects while sitting at home and receiving a stipend between $1500 and $3000? If your answer is a resounding “yes,” then Google Summer of Code (GSoC) might just be the perfect journey for you!
 
-Previously, Google Summer Of Code was only for students enrolled in some educational institution. But now, it is available for everyone, who has the passion for understanding how the technolgies that we uses in our daily lifes works.
+In the past, Google Summer of Code was available only to students enrolled in educational institutions. Now, it's open to anyone with a passion for understanding how technologies used in our daily lives work.
 
-Before you start reading, here’s a little about me. I was a Google Summer of Code (GSoC) student for the GNU Compiler Collection (GCC) in both 2023 and 2024. Everything I share in this blog comes from my own experience and helped me get selected—so I’m confident it can help you too. If you need any guidance or want to see my accepted proposals, feel free to reach out to me on <https://www.linkedin.com/in/mmahad/>
+Before you start reading, here’s a little about me. I was a Google Summer of Code (GSoC) student for the GNU Compiler Collection (GCC) in both 2023 and 2024. Everything I share in this blog comes from my own experience and helped me get selected — so I’m confident it can help you too. If you need any guidance or want to see my accepted proposals, feel free to reach out to me on <https://www.linkedin.com/in/mmahad/>
 
 ## What is GSoC?
 
-Google Summer of Code (GSoC) is an online program by Google that connects students with open-source organizations. Students can apply to work on a specific project with an organization during their summer break. They receive guidance and feedback from their experienced mentors, as well as recieving stipend & certification from Google. There are total three sized projects smal, medium and large along with 90, 175 & 350 hours projects respectively. Depending on your skills and the difficulty of your project it may take you more or less time to meet the goals of your project.
+Google Summer of Code (GSoC) is an online program by Google that connects contributors with open-source organizations. Participants can apply to work on specific projects with organizations during the program period. They receive guidance and feedback from experienced mentors, as well as a stipend and certification from Google. There are three project sizes—small (90 hours), medium (175 hours), and large (350 hours)—depending on your skills and the project's complexity.
 
-Some well known organziations that take part in Google Summer Of Code are: GNU GCC, gnome, git, wikimedia foundation, ruby, CNCF, Eclipse Foundation, Blender Foundation, Chromium, Django Software Foundation, R Language, Python foundation, Apache Software Foundation and tensorflow etc.
+Some well-known organizations that take part in Google Summer Of Code are: GNU GCC, GNOME, Git, Wikimedia Foundation, Ruby, CNCF, Eclipse Foundation, Blender Foundation, Chromium, Django Software Foundation, R Language, Python Foundation, Apache Software Foundation, and TensorFlow, etc.
 
-One of the important tips the really helping you in cracking GSoC is **"start as early as you can"**.
+One of the important tips that really helps in cracking GSoC is **"start as early as you can"**.
 
 ## How GSoC Works?
 
-We'll understand this by looking the GSoC'25 timeline:
+We'll understand this by looking at the GSoC'25 timeline:
 
-1. Open source software projects apply to be mentor organizations
-1. Google chooses the organizations to participate (195 in 2024)
-1. Contributors submit project proposals to mentor organizations
-1. Mentor organizations choose the contributors they’d like to accept
-1. Coding begins! Contributors work on their project under the guidance of their mentor over 12 weeks (possible extensions available)
-1. Contributors are paired with a mentor to help them throughout their project
+1. Open source software projects apply to be mentor organizations.
+1. Google chooses the organizations to participate (195 in 2024).
+1. Contributors submit project proposals to mentor organizations.
+1. Mentor organizations choose the contributors they’d like to accept.
+1. Coding begins! Contributors work on their project under the guidance of their mentor over 12 weeks (possible extensions available).
+1. Contributors are paired with a mentor to help them throughout their project.
     - Community bonding period with orgs.
-    - Midterm evaluation deadline (standard coding period)
-    - Mentors submit final GSoC contributor evaluations (standard coding period)
+    - Midterm evaluation deadline (standard coding period).
+    - Mentors submit final GSoC contributor evaluations (standard coding period).
 
 ## Eligibility Criteria
 
-- Over 18 upon registration for program
-- Beginner contributor to open source  or a student
-- Eligible to work in the country in which you will reside during the coding period
-- Not a resident of a US embargoed country
-- Not previously accepted into GSoC more than once (a single person can become GSoC contributor ony only 2 times)
+- Over 18 at the time of registration.
+- Beginner open-source contributor or a student.
+- Eligible to work in the country where you will reside during the coding period.
+- Not a resident of a US-embargoed country.
+- Not previously accepted into GSoC more than once (a person can be a GSoC contributor only twice).
 
-## Benefits & Why Should I apply
+## Benefits & Why Should I Apply
 
-GSoC is a place where you don’t just get to apply your skills but also get to acquire a bunch of new ones. And the learning is not just limited to technical knowledge. GSoC introduces you to a new paradigm about building code collaboratively. Not only that, GSoC is a platform which lets you build on your current skills and hone them. There is a project for all skill levels at GSoC!
+GSoC is a place where you not only apply your skills but also acquire many new ones. The learning is not limited to technical knowledge; GSoC introduces you to a new paradigm of collaborative coding. It is a platform to build on your current skills and hone them. There is a project for all skill levels at GSoC!
 
 Here are some of the interesting benefits:
 
-- Getting an edge while applying for job in Google
-- Amazing stiped (1500$ to 3000$) and the confidence
-- Being mentored by highly experienced developers
-- Your spring-board to the open source world
-- Getting involved and building your network
-- Sense of achievement
-- Hone your developer skills
-- Lasty, an absolutely amazing learning experience
+- Getting an edge when applying for a job at Google.
+- An amazing stipend (between $1500 and $3000) and increased confidence.
+- Being mentored by highly experienced developers.
+- Your springboard to the open-source world.
+- Building your network and getting involved.
+- A sense of achievement.
+- Enhancing your developer skills.
+- Lastly, an absolutely amazing learning experience.
 
-## Skills Requried
+## Skills Required
 
 Do you have some programming experience and are comfortable in at least one or two programming languages? Then, yes, you are good enough! No, you don’t need to be a Computer Science or IT major or have been coding for 5 years. Have work experience programming but spend your time studying philosophy? Yes, you are good enough to be a GSoC contributor!
 
-Every project has a different criteria for selecting GSoC contributors and subsequently different skill level requirements. If you meet the below list of general skills you are likely to find a GSoC project to which you can feel comfortable applying
+Every project has different criteria for selecting GSoC contributors and subsequently different skill level requirements. If you meet the below list of general skills you are likely to find a GSoC project to which you can feel comfortable applying.
 
 ### The soft skills
 
-- You find out where to go for help with technical questions
-- You take and respond well to feedback
-- You can work independently
-- You know when to ask questions
-- You can communicate effectively
+- You find out where to go for help with technical questions.
+- You take and respond well to feedback.
+- You can work independently.
+- You know when to ask questions.
+- You can communicate effectively.
 
-> Note: If you are not interested in Developer side, then you can also look for Google Summer Of Docs program, which are specifically tailored for technical writing people.
+> Note: If you are not interested in the developer side, then you can also look for the Google Summer Of Docs program, which is specifically tailored for technical writing people.
 
 ### The Technical skills
 
-- You can install and configure software packages on your own
-- You have access to a functioning computer
-- You’ve got experience using the programming language and operating system of the project
+- You can install and configure software packages on your own.
+- You have access to a functioning computer.
+- You’ve got experience using the programming language and operating system of the project.
 
 **Pro Tip:** Read the organization’s requirements or skills they are looking for in potential GSoC Contributors.
 
-# Let's Start Journey
+# Let's Start the Journey
 
 ## Making First Contact
 
-Interacting with an open source group is sort of like walking in on a party where it seems like everyone else knows each other. People are discussing topics you may be interested in, or sometimes they could be discussing topics you neither know nor care about.
+Interacting with an open-source group is sort of like walking in on a party where it seems like everyone else knows each other. People are discussing topics you may be interested in, or sometimes they could be discussing topics you neither know nor care about.
 
 If you’re the type of person that would walk right up and introduce yourself at a party, then the best approach to getting started is to do what you’d do in real life. Contact the project, introduce yourself and ask questions related to your project.
 
@@ -94,7 +94,7 @@ If you’re the type of person that would walk right up and introduce yourself a
 
 ## Choosing an Organization
 
-For Choosing an organization you need to find your passion.
+For choosing an organization you need to find your passion.
 
 Ask yourself:
 
@@ -106,15 +106,16 @@ You can explore keywords or topics that pique your curiosity on the internet or 
 
 Once you’ve pinpointed your interests, it’s time to find open-source organizations that resonate with you. Search the specific technologies on the GSoC page, here: <https://summerofcode.withgoogle.com/programs/2025/organizations>
 
-## Writing a proposal
+## Writing a Proposal
 
-Some of the tips for writing the proposal:
+Some tips for writing the proposal:
 
-- See previous accepted proposal.
-- Contact with the relevant organization before writing proposal.
-- Communicate with the mentors for taking help in writing and reviewing proposal.
+- See previous accepted proposals.
+- Contact the relevant organization before writing the proposal.
+- Some organizations have a proposal template, which you can follow to add your information.
+- Communicate with the mentors for help in writing and reviewing the proposal.
 
-### Writing a proposal
+### Sample Outline for Writing Proposal
 
 - Name and Contact Information
 - Title
@@ -124,9 +125,9 @@ Some of the tips for writing the proposal:
 - Deliverables
 - Related Work
 - Biographical Information
-- Follow the Rules defined by that organization.
+- Follow the rules defined by that organization.
 
-You can reach out to me, if you want to see my proposal and need guidance for writing your proposal.
+You can reach out to me if you want to see my proposal and need guidance for writing your proposal.
 
 ## Being Turned Down
 
@@ -136,8 +137,8 @@ You’ve done your homework, found an exciting project, and you’ve written the
 
 First, don’t take it personally. Just like when you apply for a job, there are reasons why you might not get in, some that have nothing to do with you. Mentors may not be available, the organization may not have enough space for your project or it may just not be the right time for your proposal.
 
-- Stay connected
-- Try a new organization
+- Stay connected.
+- Try a new organization.
 
 #### Ask for feedback on your proposal
 
@@ -150,7 +151,7 @@ Some example questions to politely ask if your proposal is turned down include:
 
 #### Approach an organization about doing the project anyway
 
-For those GSoC contributors with the drive to forge ahead without GSoC financial support, you may find that a community really is interested in your project anyway. Don’t be afraid to approach your community, GSoC org admin or mentors you communicated with about future contribution.
+For those GSoC contributors with the drive to forge ahead without GSoC financial support, you may find that a community really is interested in your project anyway. Don’t be afraid to approach your community, GSoC org admin or mentors you communicated with about future contributions.
 
 Perhaps you can work on a smaller portion of your idea over a longer period of time on your own, or find another project better suited.
 
